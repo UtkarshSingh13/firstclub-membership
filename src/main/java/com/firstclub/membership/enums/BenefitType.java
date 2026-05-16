@@ -1,0 +1,10 @@
+package com.firstclub.membership.enums;
+
+public enum BenefitType {
+    CASHBACK_PERCENTAGE,
+    FREE_DELIVERY_ABOVE,
+    EXTRA_DISCOUNT_PERCENTAGE,
+    EXCLUSIVE_DEALS_ACCESS,
+    PRIORITY_SUPPORT,
+    REVIEW_REWARD_MULTIPLIER
+}
